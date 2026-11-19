@@ -5,7 +5,7 @@
   "url": "betscarab-casino.co.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -691,8 +691,8 @@
       "question": "Can I temporarily restrict my access to gambling?"
     }
   ],
-  "_generated_at": "2026-11-19T11:08:05.693Z",
+  "_generated_at": "2026-11-19T12:42:47.135Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T11:08:06.348Z",
-  "_deploy_trigger": "4bv4im"
+  "_last_deploy": "2026-11-19T12:42:47.810Z",
+  "_deploy_trigger": "1g325s"
 }
